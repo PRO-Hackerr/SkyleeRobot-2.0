@@ -72,7 +72,7 @@ Wanna Add me to your Group? Just click the button below!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Repository", url="https://github.com/swatv3nub/skylee2_0"
+            text="Repository", url="https://github.com/swatv3nub/SkyleeRobot-2.0"
         ),
         InlineKeyboardButton(text="Add Me to a group âž•", url="https://t.me/SkyleeRobot?startgroup=true"),
     ]
